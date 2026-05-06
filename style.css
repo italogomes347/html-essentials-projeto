@@ -23,8 +23,13 @@
         height: auto;
         border-radius: 8px;
         margin: 10px 0;
- 
-    }
+    transition: 0.3s;
+}
+
+img:hover {
+    transform: scale(1.01);
+}
+    
 
     .pagina {
         background: rgb(255, 255, 255);
