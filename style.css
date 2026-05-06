@@ -13,8 +13,8 @@
     }
 
     h2 {
-        color: #e67e22;
-        border-bottom: 3px solid #e67e22;
+        color: #2236e6;
+        border-bottom: 3px solid #2236e6;
         padding-bottom: 5px;
     }
 
@@ -27,11 +27,11 @@
     }
 
     .pagina {
-        background: white;
+        background: rgb(255, 255, 255);
         padding: 20px;
         margin-bottom: 20px;
         border-radius: 10px;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        
     }
 
     footer {
